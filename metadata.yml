@@ -1,0 +1,12 @@
+---
+:id: 162704785
+:submitters:
+- :name: Goodnews Adewole
+  :email: goodnews.adewole@kibo.school
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-02-17 12:03:50.002589000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-02-17 04:03:50.002589000 Z
+:status: processed
+:score: 45.0
