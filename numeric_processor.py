@@ -122,5 +122,5 @@ if __name__ == '__main__':
     computations = load_computations_list_from_file('example_api.json')
     processor = NumericProcessor(computations)
     processor.run_computations()
-   
-
+    NumericProcessor= OperationCounterNumericProcessor(computations)
+    NumericProcessor.show_statistics()
